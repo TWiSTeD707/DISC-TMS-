@@ -1,0 +1,60 @@
+.register-container {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .header .title {
+    font-size: 36px;
+    font-weight: bold;
+  }
+  
+  .header .subtitle {
+    font-size: 20px;
+    margin-bottom: 30px;
+  }
+  
+  .form-container {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .role-selection button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 18px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    background-color: #f0f0f0;
+    cursor: pointer;
+  }
+  
+  .role-selection .active {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    font-size: 16px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+  }
+  
+  .btn-submit {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    background-color: #2196F3;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  .btn-submit:hover {
+    opacity: 0.8;
+  }
+  
